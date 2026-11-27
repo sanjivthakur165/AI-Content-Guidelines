@@ -1,0 +1,12 @@
+{
+  "name": "ai-content-guidelines",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEO and GEO rules for AI agents that build websites or write their content.",
+  "license": "MIT",
+  "repository": "github:sanjivthakur165/ai-content-guidelines",
+  "keywords": ["pi-package", "seo", "geo", "agent-skill"],
+  "pi": {
+    "skills": ["./"]
+  }
+}
